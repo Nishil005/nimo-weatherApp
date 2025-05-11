@@ -1,0 +1,34 @@
+.main-contain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0;
+    width: 500px;
+    height: 600px;
+  
+    background: rgba(255, 255, 255, 0.15); /* Semi-transparent white */
+    backdrop-filter: blur(10px);          /* Glass blur effect */
+    -webkit-backdrop-filter: blur(10px);  /* Safari support */
+    border-radius: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+
+    padding: 20px;
+    margin: 20px;
+}
+.SearchBox{
+    
+    align-items: center;         /* Optional: vertical centering */
+    
+    
+}
+.InfoBox{
+    text-align: center;
+    
+}
+.container {
+        display: flex;
+        justify-content: center;
+        
+    };

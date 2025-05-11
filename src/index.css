@@ -1,0 +1,10 @@
+
+body {
+    margin: 0;
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url('/bg.jpg') no-repeat center center/cover; /* optional background */
+}
+
